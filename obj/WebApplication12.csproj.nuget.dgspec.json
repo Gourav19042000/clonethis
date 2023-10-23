@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\WebApplication12\\WebApplication12.csproj": {}
+    "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\New folder\\WebApplication12\\WebApplication12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\WebApplication12\\WebApplication12.csproj": {
+    "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\New folder\\WebApplication12\\WebApplication12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\WebApplication12\\WebApplication12.csproj",
+        "projectUniqueName": "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\New folder\\WebApplication12\\WebApplication12.csproj",
         "projectName": "WebApplication12",
-        "projectPath": "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\WebApplication12\\WebApplication12.csproj",
+        "projectPath": "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\New folder\\WebApplication12\\WebApplication12.csproj",
         "packagesPath": "C:\\Users\\gkumarroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\WebApplication12\\obj\\",
+        "outputPath": "C:\\Users\\gkumarroy\\OneDrive - Huron Consulting Group\\Documents\\Practice\\all folders\\New folder\\WebApplication12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gkumarroy\\AppData\\Roaming\\NuGet\\NuGet.Config",
